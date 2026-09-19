@@ -1,0 +1,25 @@
+{
+  "name": "心行 · 精神障碍就业导航",
+  "short_name": "心行",
+  "description": "全国精神障碍（抑郁症、焦虑症、双相等）求职者的公益岗位聚合导航。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#2B6DE8",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
